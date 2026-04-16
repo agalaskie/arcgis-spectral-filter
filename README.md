@@ -1,6 +1,6 @@
-Spectral Filter ArcGIS Toolbox
+Spectral Filter ArcGIS Tool
 
-A Python-based ArcGIS toolbox for filtering raster data using user-defined spectral intensity thresholds. The tool allows users to isolate pixels within specified band value ranges.
+A Python-based ArcGIS tool for filtering raster data using user-defined spectral intensity thresholds. The tool allows users to isolate pixels within specified band value ranges.
 
 Requirements:
 
