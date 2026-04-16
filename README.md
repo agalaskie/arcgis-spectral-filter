@@ -23,8 +23,8 @@ Steps:
 11. Configure parameters:
 - Input Raster: The raster you want to analyze
 - Band: Select the target band (e.g., Band 1, Band 2, etc.)
-- Minimum Threshold: Lower bound of pixel intensity
-- Maximum Threshold: Upper bound of pixel intensity
+- Minimum Threshold: Minimum spectral intesity for selected band
+- Maximum Threshold: Maximum spectral intesity for selected band
 - Output Raster: Path for the filtered result
 12. Run the tool
 
